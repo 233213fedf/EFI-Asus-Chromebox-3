@@ -5,7 +5,7 @@ Based on [sqlsec's EFI](https://github.com/sqlsec/Asus-ChromeBox-i7-8550U/).
 
 **Supported machines:**
 - Asus Chromebox 3 (CN65) - Intel Core i7-8550U @1.8Ghz
-- Asus Chromebox 3 (CN65) - Intel Core i7-8250U @1.60Ghz
+- Asus Chromebox 3 (CN65) - Intel Core i5-8250U @1.60Ghz
 
 ![specs](pics/comp.png)
 
